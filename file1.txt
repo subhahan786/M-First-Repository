@@ -1,6 +1,4 @@
 Hello world
-<<<<<<< HEAD
-i am in file1 on master branch 
-=======
-i am in a file1
->>>>>>> test
+i am in file1  
+
+
